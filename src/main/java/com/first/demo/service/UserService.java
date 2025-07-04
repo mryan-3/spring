@@ -4,7 +4,7 @@ package com.first.demo.service;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
-import com.first.demo.dto.UserResponse;
+
 import com.first.demo.model.UserModel;
 import com.first.demo.repository.UserRepository;
 
